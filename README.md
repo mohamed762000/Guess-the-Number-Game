@@ -1,0 +1,1 @@
+Guess the Number Game is a classic number game where a secret random number from 1 to 100 is generated each time, and the player tries to guess the number. The guessing player will then make a series of guesses of the secret number and will be given hints in response to each guess, such as "too high" or "too low".
